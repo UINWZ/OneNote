@@ -1,3 +1,4 @@
+#CentOS7内核升级
 #### 1.导入公钥：
 rpm —import https://www.elrepo.org/RPM-GPG-KEY-elrepo.org;
 #### 2.添加rpm源:
